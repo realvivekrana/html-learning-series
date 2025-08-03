@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ragistration Form</title>
+</head>
+<body>
+    <form>
+        First Name: <input type="text" placeholder="First Name" required>
+        <br><br>
+        Last Name: <input type="text" placeholder="Last Name" required>
+        <br><br>
+        Email: <input type="email" placeholder="john123@gmail.com">
+        <br><br>
+        Gender:
+        <input type="radio" value="male" name="gender">Male
+        <input type="radio" value="male" name="gender">Female
+        <input type="radio" value="male" name="gender">Others
+        <br><br>
+        Language Know:
+        <input type="checkbox" value="Hindi">Hindi    <!--checked is used for hold items for checkbox-->
+        <input type="checkbox" value="English">English
+        <input type="checkbox" value="Gujrati">Gujrati
+        <br><br>
+        Country:
+        <select>  <!--Multiple allows to select multiple options-->
+            <option>Select Country</option>
+            <option value="India">India</option>  <!--select is used for hold items for dropdown-->
+            <option value="Germany">Germany</option>
+            <option value="Russia">Russia</option>
+            <option value="Japan">Japan</option>
+        </select>
+        <br><br>
+        Date of Birth: <input type="date">
+        <br><br>
+        Percentage: <input type="number" max="100" min="0">
+        <br><br>
+        Favourite Colors: <input type="color">
+        <br><br>
+        Upload Profile Picture:<input type="file">  <!--use multiple for multiple items-->
+        <br><br>
+        Range:<input type="range" max="100" min="0">
+        <br><br>
+        Phone: <input type="tel">
+        <br><br>
+        Search: <input type="search">
+        <br><br>
+        Messege: <textarea rows="5" cols="25"></textarea>
+        <br><br>
+        <button type="submit">Ragister</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>

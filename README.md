@@ -1,107 +1,147 @@
-# 🚀 HTML Learning Series
+# JavaScript Daily Practice 🚀
 
-Welcome to my **HTML Learning Series** 🌐✨  
-This repository showcases my **daily journey of learning HTML**, where I build strong fundamentals of web development by creating structured web pages.
+A structured repository dedicated to learning JavaScript, practicing programming concepts, improving problem-solving skills, and building projects through consistent hands-on practice.
 
----
+**Author:** Vivek Rana
 
-## 📌 About This Repository
-
-This is a **day-by-day learning repository** where I:
-
-- 📅 Practice HTML daily  
-- 🧠 Learn core concepts deeply  
-- 💡 Build structured and semantic web pages  
-- 🔥 Improve frontend development skills  
+**GitHub Repository:** [javascript-daily-practice](https://github.com/realvivekrana/javascript-daily-practice)
 
 ---
 
-## 📚 HTML Topics Covered
+## 🎯 About This Repository
 
-### 🔹 Basics
-- Introduction to HTML  
-- HTML Document Structure  
-- Elements & Tags  
-- Attributes  
+This repository documents my journey of learning and practicing JavaScript, from fundamental concepts to modern JavaScript features and practical projects.
 
-### 🔹 Text & Formatting
-- Headings (h1–h6)  
-- Paragraphs  
-- Bold, Italic, Underline  
-- Line Break & Horizontal Rule  
+My goal is to develop a strong understanding of JavaScript by writing code regularly, solving problems independently, debugging errors, and building real-world applications.
 
-### 🔹 Links & Media
-- Anchor Tag  
-- Image Tag  
-- Audio & Video  
-- Iframe  
+## 🛠️ Technologies
 
-### 🔹 Lists
-- Ordered List  
-- Unordered List  
-- Description List  
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Node.js (for JavaScript execution and practice when needed)
 
-### 🔹 Tables
-- Table Structure  
-- Rows & Columns  
-- Table Attributes  
-- Merging Cells  
+## 📚 Learning Roadmap
 
-### 🔹 Forms
-- Form Elements  
-- Input Types  
-- Labels  
-- Buttons  
-- Basic Validation  
+The repository will grow as I learn and practice the following topics:
 
-### 🔹 Semantic HTML
-- Header, Footer  
-- Section, Article  
-- Nav, Aside  
-- Main  
+- [ ] JavaScript Fundamentals
+- [ ] Variables and Data Types
+- [ ] Operators and Type Conversion
+- [ ] Conditional Statements
+- [ ] Loops and Iteration
+- [ ] Functions and Scope
+- [ ] Arrays and Array Methods
+- [ ] Objects and Object Methods
+- [ ] Strings and String Methods
+- [ ] ES6+ Features
+- [ ] DOM Manipulation
+- [ ] Events and Event Handling
+- [ ] Higher-Order Functions
+- [ ] Closures and Callbacks
+- [ ] Promises and Async/Await
+- [ ] Error Handling
+- [ ] Modules and Imports/Exports
+- [ ] Coding Challenges and Problem Solving
+- [ ] JavaScript Projects
 
-### 🔹 Advanced HTML
-- Meta Tags  
-- SEO Basics  
-- Accessibility (ARIA Basics)  
-- Favicon  
+*Progress will be updated as I complete each topic.*
 
-### 🔹 Projects (Coming Soon 🚀)
-- Portfolio Website  
-- Landing Page  
-- Forms Practice  
-- Mini Projects  
+## 📁 Repository Structure
+
+```text
+JavaScript Daily Practice/
+├── README.md
+├── .gitignore
+├── day1/
+├── day2/
+├── day3/
+└── projects/
+```
+
+The folder structure is flexible. New practice folders, JavaScript files, and projects will be added as learning progresses.
+
+## 💻 How to Run JavaScript
+
+### Option 1: Run JavaScript in a Browser
+
+1. Create an HTML file.
+2. Add JavaScript using a `<script>` tag or a separate `.js` file.
+3. Open the HTML file in your browser.
+4. Use the browser's Developer Tools console to inspect output and debug errors.
+
+### Option 2: Run JavaScript with Node.js
+
+Install Node.js if it is not already installed.
+
+Check the installation:
+
+```bash
+node --version
+npm --version
+```
+
+Create a JavaScript file, for example `app.js`, and write:
+
+```javascript
+const message = "Hello, JavaScript!";
+
+console.log(message);
+```
+
+Run the file from the terminal:
+
+```bash
+node app.js
+```
+
+## 📈 Practice Method
+
+My learning approach follows a consistent cycle:
+
+1. **Learn:** Understand a concept and its syntax.
+2. **Practice:** Write code using the concept.
+3. **Solve:** Attempt small programming problems.
+4. **Debug:** Identify and fix errors independently.
+5. **Build:** Apply concepts in small projects.
+6. **Review:** Revise previous topics regularly.
+7. **Commit:** Push meaningful progress to GitHub.
+
+## 🧩 Projects
+
+This section will showcase the projects I create while learning JavaScript.
+
+For each project, I plan to include its purpose, technologies used, key features, and source code.
+
+## 🌱 Goals
+
+- Build strong JavaScript fundamentals.
+- Improve logical thinking and problem-solving.
+- Write clean, readable, and maintainable code.
+- Become comfortable debugging JavaScript applications.
+- Build projects independently.
+- Prepare for frontend and full-stack development.
+
+## 🔄 Git Workflow
+
+I use Git and GitHub to track my learning progress and maintain my practice code.
+
+```bash
+git add .
+git commit -m "Add JavaScript practice"
+git push
+```
+
+Only relevant source files and learning documentation should be committed. Dependencies, build output, secrets, and unnecessary generated files should remain excluded through `.gitignore`.
+
+## 👨‍💻 About Me
+
+I'm learning and practicing JavaScript to strengthen my software development skills and prepare for professional development opportunities.
+
+**GitHub:** [@realvivekrana](https://github.com/realvivekrana)
 
 ---
 
-## 🛠️ Tech Stack
-
-- HTML  
-
----
-
-## 🎯 Goal
-
-To build a strong foundation in **Frontend Development** and create clean, well-structured websites.
-
----
-
-## 🤝 Connect With Me
-
-- 🐙 GitHub: https://github.com/realvivekrana  
-
----
-
-## ⭐ Support
-
-If you find this helpful, please **star ⭐ this repository**.
-
----
-
-## 📢 Note
-
-This is a **continuous learning series**, updated regularly with new concepts and projects.
-
----
-
-🌐 *Build Structure. Build Web.* 🚀
+*Learn consistently. Practice daily. Build independently.*
